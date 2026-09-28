@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/brewpath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Brew and reshape path text streams with deterministic transforms.",
+  "bin": {
+    "brewpath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/brewpath.git"
+  },
+  "homepage": "https://theworker02.github.io/brewpath/",
+  "keywords": [
+    "brew",
+    "path",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
